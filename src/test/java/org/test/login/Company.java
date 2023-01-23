@@ -14,12 +14,21 @@ public class Company {
 		System.out.println("wiprow");
 
 	}
+
+	private void method5() {
+		System.out.println("open");
+
+	}
+	private void method7() {
+		System.out.println("close");
+	}
 	private void name() {
 		// TODO Auto-generated method stub
 
 	}
 	private void id() {
 		// TODO Auto-generated method stub
+
 
 	}
 	
