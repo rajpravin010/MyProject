@@ -14,6 +14,14 @@ public class Company {
 		System.out.println("wiprow");
 
 	}
+	private void name() {
+		// TODO Auto-generated method stub
+
+	}
+	private void id() {
+		// TODO Auto-generated method stub
+
+	}
 	
 
 }
